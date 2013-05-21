@@ -4,5 +4,11 @@
     <string name="app_name">RecipeNation</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="new_recipe">New Recipe</string>
+    <string name="view_recipes">View Recipes</string>
+    <string name="new_gl">New Grocery List</string>
+    <string name="no_connection">Unable to connect to the internet, bub</string>
+    <string name="xml_string">com.atommarvel.RecipeNation.XMLSTRING</string>
+    <string name="title_activity_view_recipes">ViewRecipesActivity</string>
 
 </resources>
